@@ -1,0 +1,15 @@
+
+/* Thanks */
+	Background Image: Scattered Forcefields
+	Author: Matt Lipman
+	Source: https://www.svgbackgrounds.com/
+
+	Background Gif: Typing Cartoon Illustrations
+	Author: Freepik Storyset
+	Source: https://storyset.com/illustration/typing/bro/
+
+/* SITE */
+	Last Update: 2021y/03m/27d
+	Language: English, Portuguese
+	Technology: HTML5, CSS3, Font Awesome, Git, Git LFS, Google Fonts, Normalize, Freepik Storyset, svgbackgrounds
+	IDE: Visual Studio Code
